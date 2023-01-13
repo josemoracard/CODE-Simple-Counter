@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(49, 49, 49);
+}
 
 /* 
 
@@ -10,3 +13,5 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
